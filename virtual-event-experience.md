@@ -1,5 +1,6 @@
 # TEDx Virtual Gatherings / TEDx バーチャル開催
-Translation by China Fujimori and Taichi Furuhashi, at 2020 JUN 01
+Translation by China Fujimori and Taichi Furuhashi as TEDxAoyamaGakuinU Team.
+2020 JUN 01
 
 ---
 
