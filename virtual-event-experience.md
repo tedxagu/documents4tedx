@@ -1,4 +1,4 @@
-# TED Virtual Gatherings / バーチャル開催
+# TEDx Virtual Gatherings / TEDx バーチャル開催
 Translation by China Fujimori and Taichi Furuhashi, at 2020 JUN 01
 
 ---
